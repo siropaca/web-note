@@ -1,0 +1,10 @@
+{
+  "name": "web-note",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite": "6.2.0"
+  }
+}
